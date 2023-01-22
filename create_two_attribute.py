@@ -7,4 +7,3 @@ class Person:
         self.age = age
 a = Person('Shoxruh', 18)
 b = Person('Nurbek', 19)
-print(a.name, a.age, b.name, b.age)
